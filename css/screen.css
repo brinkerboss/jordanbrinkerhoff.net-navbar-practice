@@ -8,7 +8,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    border: 1px solid #e7e7e7;
+/*    border: 1px solid #e7e7e7;*/
     background-color: #f3f3f3;
     position: fixed;
     top: 0;
@@ -35,4 +35,17 @@ li a:hover:not(.active) {
 li a.active {
     color: white;
     background-color: #4293e2;
+}
+
+
+
+.intro-section {
+    height: 770px;
+    
+    text-align: center;
+    background-image: url(../img/3_small.jpg);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size:contain;
+    color: #262626;
 }
