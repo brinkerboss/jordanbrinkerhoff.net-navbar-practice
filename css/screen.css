@@ -105,11 +105,11 @@ li a.active {
         
     }
 }
-@media (min-width: 1200px)
+@media (min-width: 1200px) {
 .col-lg-6,  .col-lg-12 {
     
 }
-
+}
 .col-lg-12 .col-lg-6 {
     position: relative;
     min-height: 1px;
