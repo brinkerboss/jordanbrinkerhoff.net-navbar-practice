@@ -6,10 +6,10 @@
     <body>
         <nav>
             <ul>
-                <li><a class="active" href="#home">Jordan</a></li>
-                <li><a href="#news">About</a></li>
-                <li><a href="#contact">Projects</a></li>
-                <li><a href="#about">Contact</a></li>
+                <li><a class="active" href="#top">Jordan</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
             </ul>
         </nav>
         <section id="intro" class="intro-section">
@@ -79,6 +79,16 @@
             </div>
         </section>
         <section id="projects" class="projects-section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <h1>Projects</h1>
+                        <div class="project">
+                            
+                        </div>
+                    </div>
+                    </div>                          
+                </div>
 
         </section>
         <section id="contact" class="contact-section">
