@@ -2,6 +2,7 @@
 <html>
     <head>
         <link href="css/screen.css" media="screen" type="text/css" rel="stylesheet">
+        <link rel="stylesheet" href="css/font-awesome.min.css">
     </head>
     <body>
         <nav>
@@ -84,15 +85,43 @@
                     <div class="col-lg-12">
                         <h1>Projects</h1>
                         <div class="project">
-                            
+                            <h3>Calender</h3>
+                            "enter any year since 1753 and the program will display the calendar, accounting for leap years. "
+                            <div class="projects-links">
+                                <a href="https://github.com/brinkerboss/" target="_blank"><i class="fa fa-github"></i> </a>
+                            </div>
+                            <div class="project-images">
+
+                            </div>
+
                         </div>
+                        <hr class="separator-style"> </hr>
                     </div>
-                    </div>                          
-                </div>
+                </div>                          
+            </div>
 
         </section>
         <section id="contact" class="contact-section">
-
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <h1>Find me on:</h1>
+                    </div> 
+                    <div id="social-contact">
+                        <ul>
+                            <li>
+                                <a href="mailto:jordangbrinkerhoff@gmail.com"><i class="fa fa-envelope-square" aria-hidden="true"></i></a>
+                            </li>
+                            <li>
+                                <a href="https://github.com/brinkerboss"><i class="fa fa-github-square" aria-hidden="true"></i></a>
+                            </li>
+                            <li>
+                                <a href="https://www.linkedin.com/in/jordan-brinkerhoff"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
         </section>
     </body>
 </html>
