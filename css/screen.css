@@ -26,12 +26,11 @@ nav ul {
     width: 100%;
 
 }
-
-li {
+nav ul li {
     float: left;
 }
 
-li a {
+nav ul li a {
     display: block;
     color: #666;
     text-align: center;
@@ -143,8 +142,24 @@ hr.style2:after {
     transform: rotate(90deg);
 }
 
-ul {
+
+.contact-section {
+    background: #f3f3f3;
+    background-size: auto;
+    background-origin: padding-box;
+    text-align: center;
+    
+}
+
+#social-contact ul li {
+    display: inline;
+    margin: 5px;
+    width: auto;
+    display: inline;
+   
     list-style-type: none;
-    position: relative;
-    center: auto;
+}
+
+div div ul {
+    padding-left: 0;
 }

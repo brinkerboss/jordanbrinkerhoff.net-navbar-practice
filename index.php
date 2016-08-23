@@ -6,7 +6,7 @@
     </head>
     <body>
         <nav>
-            <ul>
+            <ul class="navbar">
                 <li><a class="active" href="#top">Jordan</a></li>
                 <li><a href="#about">About</a></li>
                 <li><a href="#projects">Projects</a></li>
@@ -106,20 +106,21 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <h1>Find me on:</h1>
+                        <div id="social-contact">
+                            <ul>
+                                <li>
+                                    <a href="mailto:jordangbrinkerhoff@gmail.com"><i class="fa fa-envelope-square"  style="font-size:48px;color:red"></i></a>
+                                </li>
+                                <li>
+                                    <a href="https://github.com/brinkerboss"><i class="fa fa-github-square"  style="font-size:48px;color:red"></i></a>
+                                </li>
+                                <li>
+                                    <a href="https://www.linkedin.com/in/jordan-brinkerhoff"><i class="fa fa-linkedin-square"  style="font-size:48px;color:red"></i></a>
+                                </li>
+                            </ul>
+                        </div>
                     </div> 
-                    <div id="social-contact">
-                        <ul>
-                            <li>
-                                <a href="mailto:jordangbrinkerhoff@gmail.com"><i class="fa fa-envelope-square" aria-hidden="true"></i></a>
-                            </li>
-                            <li>
-                                <a href="https://github.com/brinkerboss"><i class="fa fa-github-square" aria-hidden="true"></i></a>
-                            </li>
-                            <li>
-                                <a href="https://www.linkedin.com/in/jordan-brinkerhoff"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
-                            </li>
-                        </ul>
-                    </div>
+
                 </div>
             </div>
         </section>
