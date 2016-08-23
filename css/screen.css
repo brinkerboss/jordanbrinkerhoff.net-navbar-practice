@@ -148,7 +148,9 @@ hr.style2:after {
     background-size: auto;
     background-origin: padding-box;
     text-align: center;
-    
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #9E9E9E;
 }
 
 #social-contact ul li {

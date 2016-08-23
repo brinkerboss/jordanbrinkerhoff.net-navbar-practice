@@ -88,7 +88,7 @@
                             <h3>Calender</h3>
                             "enter any year since 1753 and the program will display the calendar, accounting for leap years. "
                             <div class="projects-links">
-                                <a href="https://github.com/brinkerboss/" target="_blank"><i class="fa fa-github"></i> </a>
+                                <a href="https://github.com/brinkerboss/" target="_blank"><i class="fa fa-github" style="font-size:30px;color:#4293e2"></i> </a>
                             </div>
                             <div class="project-images">
 
@@ -109,13 +109,13 @@
                         <div id="social-contact">
                             <ul>
                                 <li>
-                                    <a href="mailto:jordangbrinkerhoff@gmail.com"><i class="fa fa-envelope-square"  style="font-size:48px;color:red"></i></a>
+                                    <a href="mailto:jordangbrinkerhoff@gmail.com"><i class="fa fa-envelope-square"  style="font-size:48px;color:#4293e2"></i></a>
                                 </li>
                                 <li>
-                                    <a href="https://github.com/brinkerboss"><i class="fa fa-github-square"  style="font-size:48px;color:red"></i></a>
+                                    <a href="https://github.com/brinkerboss"><i class="fa fa-github-square"  style="font-size:48px;color:#4293e2"></i></a>
                                 </li>
                                 <li>
-                                    <a href="https://www.linkedin.com/in/jordan-brinkerhoff"><i class="fa fa-linkedin-square"  style="font-size:48px;color:red"></i></a>
+                                    <a href="https://www.linkedin.com/in/jordan-brinkerhoff"><i class="fa fa-linkedin-square"  style="font-size:48px;color:#4293e2"></i></a>
                                 </li>
                             </ul>
                         </div>
