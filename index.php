@@ -3,9 +3,12 @@
     <head>
         <link href="css/screen.css" media="screen" type="text/css" rel="stylesheet">
         <link rel="stylesheet" href="css/font-awesome.min.css">
+        
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+        <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     </head>
-    <body>
-        <nav>
+    <body data-spy="scroll" data-target="#myNavbar">
+        <nav id="myNavbar">
             <ul class="navbar">
                 <li><a class="active" href="#top">Jordan</a></li>
                 <li><a href="#about">About</a></li>

@@ -2,6 +2,7 @@
 
 * {
     box-sizing: border-box;
+    font-weight: 500;
 }
 html {
   font-family: raleway, sans-serif; /* 1 */
@@ -10,6 +11,7 @@ html {
 }
 body {
     margin: 0px;
+    position: relative;
     
     
 }
@@ -79,6 +81,7 @@ li a.active {
 
 .col-lg-6 {
     text-align: left;
+    margin-bottom: 75px;
 }
 
 .small-text {
