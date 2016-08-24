@@ -113,7 +113,7 @@
                             <ul>
                                 <li>
 
-                                    <a href="mailto:jordangbrinkerhoff@gmail.com"><i class="fa fa-envelope-square"  style="font-size:48px;color:#4293e2"></i></a>
+                                    <a href=""><i class="fa fa-envelope-square"  style="font-size:48px;color:#4293e2"></i></a>
                                 </li>
                                 <li>
                                     <a href="https://github.com/brinkerboss"><i class="fa fa-github-square"  style="font-size:48px;color:#4293e2"></i></a>
