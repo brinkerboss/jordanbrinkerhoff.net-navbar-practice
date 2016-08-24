@@ -132,9 +132,21 @@ li a.active {
 }
 
 hr.separator-style {
-    border-top: 2px;
+    border-top: 2px solid #ccc;
     text-align: center;
     max-width: 800px;
+}
+hr.style2:after {
+    content: '§';
+    display: inline-block;
+    position: relative;
+    top: -13px;
+    padding: 0 10px;
+    background: #fff;
+    color: #333;
+    font-size: 20px;
+    transform: rotate(90deg);
+
 }
 hr {
     margin-top: 22px;
@@ -193,6 +205,9 @@ span.plink {
 .project-images {
     margin-top: 30px;
     margin-bottom: 30px;
+}
+span.p-description {
+    font-size: 15.5px;
 }
 
 

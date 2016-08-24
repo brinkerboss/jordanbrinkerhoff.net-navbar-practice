@@ -88,7 +88,7 @@
                         <h1>Projects</h1>
                         <div class="project">
                             <h3>Calender</h3>
-                            <p class="small-text">enter any year since 1753 and the program will display the calendar, accounting for leap years. </p>
+                            <span class="p-description">enter a month and year from 1753 forward and the program will display the calendar, accounting for leap years. </span>
                             <div class="project-links">
                                 <a class="link" href="https://github.com/brinkerboss/display-calendar" target="_blank"><i class="fa fa-github" style="font-size:18px;color:#4293e2"></i><span class="plink"> github</span></a>
 
