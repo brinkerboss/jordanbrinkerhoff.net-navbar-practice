@@ -67,10 +67,11 @@
                                 <h4>
                                     <b>Personally</b>
                                 </h4>
-                                <p class="small-text">I left Hong Kong and came to the United States when I was 8. I went through English as a Second Language in elementary school and was fortunate to be admitted to Brooklyn Technical High School.
+                                <p class="small-text">My journey into the world of computers and technology began my freshman year of high school when I took a class called PC Doctor. I learned the different parts of the different components and what they did, I built computers and installed various operating systems. My first experience in coding was my first semester of college at BYU-Idaho, when I took C++. It was a difficult class, that lost me around loops and arrays.
+                                    
                                 </p>
                                 <p class="small-text">
-                                    I never had any particular interests, but performed well enough to get a near full scholarship to Parsons School of Design. At Parsons I discovered my intellectual curiosity after being unchallenged from the regular curriculum. That extra energy allowed me to reach for opportunities that went beyond the pursuit of grades, syllabi, bachelors degrees and into the development of the mind. I write more about it on my 
+                                    Shortly after that semester I decided to change my major with the intent to become a physical therapist. For two semesters I took classes required for that career path, but realized it was not what I wanted to do and not what I was best at. For two more semester after that I sampled classes from other majors, before finally settling on Computer Information Technology. 
                                 </p>
                             </div>
                         </div>
