@@ -4,6 +4,16 @@
     box-sizing: border-box;
     font-weight: 500;
 }
+a:link {
+    text-decoration: none;
+}
+a:visited {
+    text-decoration: none;
+}
+div.project-links a:hover {
+     text-decoration: underline;
+     
+}
 html {
   font-family: raleway, sans-serif; /* 1 */
   -ms-text-size-adjust: 100%; /* 2 */
@@ -174,5 +184,17 @@ div div ul {
     font-size:48px;
     color:#4293e2
 }
+span.plink {
+    font-size: 18px;    
+   color:#4293e2;
+    cursor: auto;
+}
+
+.project-images {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+
 
 

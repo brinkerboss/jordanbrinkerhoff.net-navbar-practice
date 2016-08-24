@@ -3,7 +3,7 @@
     <head>
         <link href="css/screen.css" media="screen" type="text/css" rel="stylesheet">
         <link rel="stylesheet" href="css/font-awesome.min.css">
-       
+
     </head>
     <body data-spy="scroll" data-target="#myNavbar">
         <nav id="myNavbar">
@@ -69,7 +69,7 @@
                                     <b>Personally</b>
                                 </h4>
                                 <p class="small-text">My journey into the world of computers and technology began my freshman year of high school when I took a class called PC Doctor. I learned the different parts of the different components and what they did, I built computers and installed various operating systems. My first experience in coding was my first semester of college at BYU-Idaho, when I took C++. It was a difficult class, that lost me around loops and arrays.
-                                    
+
                                 </p>
                                 <p class="small-text">
                                     Shortly after that semester I decided to change my major with the intent to become a physical therapist. For two semesters I took classes required for that career path, but realized it was not what I wanted to do and not what I was best at. For two more semester after that I sampled classes from other majors, before finally settling on Computer Information Technology. 
@@ -88,12 +88,13 @@
                         <h1>Projects</h1>
                         <div class="project">
                             <h3>Calender</h3>
-                            "enter any year since 1753 and the program will display the calendar, accounting for leap years. "
-                            <div class="projects-links">
-                                <a href="https://github.com/brinkerboss/" target="_blank"><i class="fa fa-github" style="font-size:30px;color:#4293e2"></i> </a>
+                            <p class="small-text">enter any year since 1753 and the program will display the calendar, accounting for leap years. </p>
+                            <div class="project-links">
+                                <a class="link" href="https://github.com/brinkerboss/display-calendar" target="_blank"><i class="fa fa-github" style="font-size:18px;color:#4293e2"></i><span class="plink"> github</span></a>
+
                             </div>
                             <div class="project-images">
-
+                                <img src="img/prj2.jpg" alt="calendar">
                             </div>
 
                         </div>
@@ -111,8 +112,8 @@
                         <div id="social-contact">
                             <ul>
                                 <li>
-                                    
-                                 <a href="mailto:jordangbrinkerhoff@gmail.com"><i class="fa fa-envelope-square"  style="font-size:48px;color:#4293e2"></i></a>
+
+                                    <a href="mailto:jordangbrinkerhoff@gmail.com"><i class="fa fa-envelope-square"  style="font-size:48px;color:#4293e2"></i></a>
                                 </li>
                                 <li>
                                     <a href="https://github.com/brinkerboss"><i class="fa fa-github-square"  style="font-size:48px;color:#4293e2"></i></a>
