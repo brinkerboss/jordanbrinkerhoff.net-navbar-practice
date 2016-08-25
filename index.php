@@ -87,7 +87,7 @@
                     <div class="col-lg-12">
                         <h1>Projects</h1>
                         <div class="project">
-                            <h3>Calender</h3>
+                            <h3 class="project-title">Calendar</h3>
                             <span class="p-description">enter a month and year from 1753 forward and the program will display the calendar, accounting for leap years. </span>
                             <div class="project-links">
                                 <a class="link" href="https://github.com/brinkerboss/display-calendar" target="_blank"><i class="fa fa-github" style="font-size:18px;color:#4293e2"></i><span class="plink"> github</span></a>
@@ -98,7 +98,7 @@
                             </div>
 
                         </div>
-                        <hr class="separator-style"> </hr>
+<!--                        <hr class="separator-style"> </hr>-->
                     </div>
                 </div>                          
             </div>
