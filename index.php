@@ -20,7 +20,7 @@
                 <div class="row">
                     ::before
                     <div class="col-lg-12">
-                        <h1>
+                        <h1 class="main">
                             My name is Jordan.
                         </h1>     
                         <h3>
