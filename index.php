@@ -62,7 +62,7 @@
                                 </h4>
                                 <p class="small-text"> In March 2016 I was offered an internship with the LDS Church, as an Oracle database administrator.  It was an amazing experience to see the roles of DBAs and engineers in a corporate environment and aiding in the maintenance of Oracle databases. 
                                 </p>
-                                <p class="small-text"> </p>
+                                <p class="small-text"> I am in my final semester at BYU-Idaho, and am seeking post graduation employment. My desired career fields are that of database engineer or administrator, or software developer. </p>
                             </div>
                             <div class="col-lg-6">
                                 <h4>
