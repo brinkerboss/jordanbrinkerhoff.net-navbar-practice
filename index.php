@@ -60,9 +60,9 @@
                                 <h4>
                                     <b>Professionally</b>
                                 </h4>
-                                <p class="small-text">I was exposed to the world of programming when I began collaborating with developers as a designer in University. I often felt powerless and frustrated after delivering the plans for the product (wire-frames, assets, research). To ease the workload of my teammates, I began tinkering with front-end. A year later and with the help of a 
+                                <p class="small-text"> In March 2016 I was offered an internship with the LDS Church, as an Oracle database administrator.  It was an amazing experience to see the roles of DBAs and engineers in a corporate environment and aiding in the maintenance of Oracle databases. 
                                 </p>
-                                <p class="small-text">My goal is to develop a product or a service that has a lasting impact on the most amount of people possible. I've saved some of my product design projects </p>
+                                <p class="small-text"> </p>
                             </div>
                             <div class="col-lg-6">
                                 <h4>
