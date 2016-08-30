@@ -68,7 +68,7 @@
                                 <h4>
                                     <b>Personally</b>
                                 </h4>
-                                <p class="small-text">My journey into the world of computers and technology began my freshman year of high school when I took a class called PC Doctor. I learned the different parts of the different components and what they did, I built computers and installed various operating systems. My first experience in coding was my first semester of college at BYU-Idaho, when I took C++. It was a difficult class, that lost me around loops and arrays.
+                                <p class="small-text">My journey into the world of computers and technology began my freshman year of high school when I took a class called PC Doctor. I learned the different parts of the different components and what they did, I built computers and installed various operating systems. My first experience in coding did not come until my first semester of college at BYU-Idaho, when I took C++. It was a difficult class, that lost me around loops and arrays.
 
                                 </p>
                                 <p class="small-text">
@@ -103,7 +103,9 @@
                             <h3 class="project-title">Guitar Database</h3>
                             <span class="p-description">View, add, or remove information about guitars located in a relational database </span>
                             <div class="project-links">
-                                <a class="link" href="https://github.com/brinkerboss/guitar_db" target="_blank"><i class="fa fa-github" style="font-size:18px;color:#4293e2"></i><span class="plink"> github </span></a> <span class="plink">|</span> <a class="link" href="https://github.com/brinkerboss/guitar_db" target="_blank"> <i class="fa fa-heartbeat" style="font-size:18px;color:#4293e2"></i><span class="plink"> live</span></a>
+                                <a class="link" href="https://github.com/brinkerboss/guitar_db" target="_blank"><i class="fa fa-github" style="font-size:18px;color:#4293e2"></i><span class="plink"> github </span></a> 
+                                <span class="plink">|</span> 
+                                <a class="link" href="/guitar_db" target="_blank"> <i class="fa fa-heartbeat" style="font-size:18px;color:#4293e2"></i><span class="plink"> live</span></a>
 
                             </div>
                             <div class="project-images">
