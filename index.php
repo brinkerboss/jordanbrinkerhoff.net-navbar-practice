@@ -100,10 +100,10 @@
                         </div>
                         <hr class="separator-style"> </hr>
                         <div class="project">
-                            <h3 class="project-title">Guitar Store Database</h3>
+                            <h3 class="project-title">Guitar Database</h3>
                             <span class="p-description">View, add, or remove information about guitars located in a relational database </span>
                             <div class="project-links">
-                                <a class="link" href="https://github.com/brinkerboss/guitar_db" target="_blank"><i class="fa fa-github" style="font-size:18px;color:#4293e2"></i><span class="plink"> github | <i class="fa fa-heartbeat" style="font-size:18px;color:#4293e2"></i></span></a>
+                                <a class="link" href="https://github.com/brinkerboss/guitar_db" target="_blank"><i class="fa fa-github" style="font-size:18px;color:#4293e2"></i><span class="plink"> github </span></a> <span class="plink">|</span> <a class="link" href="https://github.com/brinkerboss/guitar_db" target="_blank"> <i class="fa fa-heartbeat" style="font-size:18px;color:#4293e2"></i><span class="plink"> live</span></a>
 
                             </div>
                             <div class="project-images">
