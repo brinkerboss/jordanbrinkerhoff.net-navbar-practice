@@ -98,7 +98,19 @@
                             </div>
 
                         </div>
-<!--                        <hr class="separator-style"> </hr>-->
+                        <hr class="separator-style"> </hr>
+                        <div class="project">
+                            <h3 class="project-title">Guitar Store Database</h3>
+                            <span class="p-description">View, add, or remove information about guitars located in a relational database </span>
+                            <div class="project-links">
+                                <a class="link" href="https://github.com/brinkerboss/guitar_db" target="_blank"><i class="fa fa-github" style="font-size:18px;color:#4293e2"></i><span class="plink"> github | <i class="fa fa-heartbeat" style="font-size:18px;color:#4293e2"></i></span></a>
+
+                            </div>
+                            <div class="project-images">
+                                <img src="img/" alt="guitar database">
+                            </div>
+
+                        </div>
                     </div>
                 </div>                          
             </div>
