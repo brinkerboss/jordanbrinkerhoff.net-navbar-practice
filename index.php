@@ -81,7 +81,7 @@
                 </div>
             </div>
         </section>
-        <section id="projects" class="projects-section">
+        <section class="projects-section">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
