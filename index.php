@@ -109,7 +109,7 @@
 
                             </div>
                             <div class="project-images">
-                                <img src="img/" alt="guitar database">
+                                <img src="img/guitar.jpg" alt="guitar database">
                             </div>
 
                         </div>
