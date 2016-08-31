@@ -1,13 +1,4 @@
-<?php
-require('database.php');
-$query = 'SELECT *
-          FROM categories
-          ORDER BY categoryID';
-$statement = $db->prepare($query);
-$statement->execute();
-$categories = $statement->fetchAll();
-$statement->closeCursor();
-?>
+
 <!DOCTYPE html>
 <html>
 
@@ -27,14 +18,7 @@ $statement->closeCursor();
               id="add_product_form">
             
 
-<!--            <label>Category:</label>
-            <select name="category_id">
-            <?php foreach ($categories as $category) : ?>
-                <option value="<?php echo $category['categoryID']; ?>">
-                    <?php echo $category['categoryName']; ?>
-                </option>
-            <?php endforeach; ?>
-            </select><br>-->
+
 
             <label>Code:</label>
             <input type="text" name="code"><br>

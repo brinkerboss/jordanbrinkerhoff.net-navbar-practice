@@ -2,46 +2,46 @@
 require_once('database.php');
 
 // Get category ID
-if (!isset($category_id)) {
-    $category_id = filter_input(INPUT_GET, 'category_id', 
-            FILTER_VALIDATE_INT);
-    if ($category_id == NULL || $category_id == FALSE) {
-        $category_id = 1;
-    }
-}
-// Get name for selected category
-$queryCategory = 'SELECT * FROM categories
-                  WHERE categoryID = :category_id';
+//if (!isset($category_id)) {
+//    $category_id = filter_input(INPUT_GET, 'category_id', 
+//            FILTER_VALIDATE_INT);
+//    if ($category_id == NULL || $category_id == FALSE) {
+//        $category_id = 1;
+//    }
+//}
+//// Get name for selected category
+//$queryCategory = 'SELECT * FROM categories
+//                  WHERE categoryID = :category_id';
 //Prepared statements
 //sends a query to the db, validates the syntax
-$statement1 = $db->prepare($queryCategory);
+//$statement1 = $db->prepare($queryCategory);
 //bindValue replaces the placeholder with the variable, also performs another check on the data
-$statement1->bindValue(':category_id', $category_id);
+//$statement1->bindValue(':category_id', $category_id);
 //The prepared statement, statement1, is executed
-$statement1->execute();
+//$statement1->execute();
 
 //has the db send one result sent back 
-$category = $statement1->fetch();
+//$category = $statement1->fetch();
 //takes the row returned and assigns that to a variable
-$category_name = $category['categoryName'];
+//$category_name = $category['categoryName'];
 //closes the connection to the db
-$statement1->closeCursor();
+//$statement1->closeCursor();
 
 
 // Get all categories
-$query = 'SELECT * FROM categories
-                       ORDER BY categoryID';
-$statement = $db->prepare($query);
-$statement->execute();
-$categories = $statement->fetchAll();
-$statement->closeCursor();
+//$query = 'SELECT * FROM categories
+//                       ORDER BY categoryID';
+//$statement = $db->prepare($query);
+//$statement->execute();
+//$categories = $statement->fetchAll();
+//$statement->closeCursor();
 
 // Get products for selected category
 $queryProducts = 'SELECT * FROM products
-                  WHERE categoryID = :category_id
+                  
                   ORDER BY productID';
 $statement3 = $db->prepare($queryProducts);
-$statement3->bindValue(':category_id', $category_id);
+
 $statement3->execute();
 $products = $statement3->fetchAll();
 $statement3->closeCursor();
@@ -61,23 +61,7 @@ $statement3->closeCursor();
 <main>
     <h1>Guitar List</h1>
 
-<!--    <aside>
-         display a list of categories 
-        <h2>Categories</h2>
-        <nav>
-        <ul>
-            <?php foreach ($categories as $category) : ?>
-            <li><a href=".?category_id=<?php echo $category['categoryID']; ?>">
-                    <?php echo $category['categoryName']; ?>
-                </a>
-            </li>
-            <?php endforeach; ?>
-        </ul>
-        </nav>          
-    </aside>-->
 
-    <section>
-        <!-- display a table of products -->
         
         <table>
             <tr>
@@ -95,8 +79,7 @@ $statement3->closeCursor();
                 <td><form action="delete_product.php" method="post">
                     <input type="hidden" name="product_id"
                            value="<?php echo $product['productID']; ?>">
-                    <input type="hidden" name="category_id"
-                           value="<?php echo $product['categoryID']; ?>">
+                   
                     <input type="submit" value="Delete">
                 </form></td>
             </tr>
